@@ -43,10 +43,6 @@
 
 </details>
 
-| ![碲矿](https://s2.loli.net/2023/09/25/fub5VAPSa8srwyM.jpg) | ![赞赏](https://s2.loli.net/2023/09/25/gkh9uWZVOxzNPAX.jpg) |
-| :---------------------------------------------------------: | :---------------------------------------------------------: |
-|                   后台回复 `WCF` 加群交流                   |                       如果你觉得有用                        |
-
 ## 快速开始
 
 > ℹ️ 如果跑过机器人，先将机器人停止，然后退出微信，再开始，以避免奇奇怪怪的问题。
@@ -177,4 +173,4 @@ RUST_BACKTRACE=full RUST_LOG=debug cargo tauri dev
 
 ## 感谢各位大佬贡献代码
 
-<a href="https://github.com/lich0821/wcf-client-rust/graphs/contributors">![](https://contrib.rocks/image?repo=lich0821/wcf-client-rust)</a>
+有关贡献者的信息，请访问原项目仓库。
